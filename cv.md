@@ -6,7 +6,7 @@
 
 ---
 
-##Frontend developer (Prerequisite level)
+##Future Frontend developer!
 
 *****
 
