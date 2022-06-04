@@ -1,5 +1,9 @@
 # rsschool-cv
 
-Here is my first CV from RS-school exercises.
+Here is CV done with html & css
 
-https://SabitovIlyar.github.io/rsschool-cv/cv
+https://SabitovIlyar.github.io/rsschool-cv/
+
+
+
+
